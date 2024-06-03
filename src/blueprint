@@ -1,0 +1,28 @@
+Create School management System
+    => Student
+    => Teachers
+    => Funds
+  // build a Money management system for the school
+
+  // we'll track:
+       => Student fees
+       => Paid fees
+       => Teachers Salary
+
+  // School Object contains
+        => Teachers
+        => students
+        => Total money earned
+        => Total money Spent in teacher salary
+
+  // Teacher object contains:
+        => id
+        => Name
+        => Salary
+
+  // Student object contains
+        => id
+        => name
+        => class / grade
+        => Fees to be paid
+        => Total fees
